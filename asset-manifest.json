@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "//tlol_card/static/js/main.a631691d.js",
-    "static/js/787.af05f642.chunk.js": "//tlol_card/static/js/787.af05f642.chunk.js",
-    "index.html": "//tlol_card/index.html",
-    "main.a631691d.js.map": "//tlol_card/static/js/main.a631691d.js.map",
-    "787.af05f642.chunk.js.map": "//tlol_card/static/js/787.af05f642.chunk.js.map"
+    "main.js": "/tlol_card/static/js/main.cb246a13.js",
+    "static/js/787.af05f642.chunk.js": "/tlol_card/static/js/787.af05f642.chunk.js",
+    "index.html": "/tlol_card/index.html",
+    "main.cb246a13.js.map": "/tlol_card/static/js/main.cb246a13.js.map",
+    "787.af05f642.chunk.js.map": "/tlol_card/static/js/787.af05f642.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a631691d.js"
+    "static/js/main.cb246a13.js"
   ]
 }
